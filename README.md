@@ -1,5 +1,7 @@
 # ESP32 Super Mini – Apple HomeKit Buzzer Controller
 
+[For more view](https://github.com/galbraithmedia1/ESP32-HomeSpan)
+
 A DIY HomeKit-compatible buzzer controller built using the **ESP32-C3 Super Mini** and [HomeSpan](https://github.com/HomeSpan/HomeSpan).
 
 This project allows you to control a passive buzzer through Apple's Home app or a physical push button connected to the ESP32.
